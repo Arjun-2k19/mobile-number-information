@@ -1,7 +1,5 @@
 # mobile-number-information
-#Phonenumbers are one of the modules that provides numerous features like providing basic information about a phone number, validation of a phone number etc.
-# phonenumbers
-<h2>Python is a very powerful language and also very rich in libraries.
+<h2>
 Phonenumbers are one of the modules that provides numerous features like providing basic information about a phone number,
 validation of a phone number etc.</h2>
 Here, we will learn how to use phonenumbers module just by writing simple Python programs. 
